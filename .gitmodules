@@ -1,0 +1,3 @@
+[submodule "python_project_boilerplate.py"]
+	path = {{cookiecutter.package_name}}.py
+	url = https://github.com/KOLANICH/python_project_boilerplate.py
